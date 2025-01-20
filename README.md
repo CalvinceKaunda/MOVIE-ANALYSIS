@@ -29,24 +29,17 @@ Our analysis showed that:
 - Drama and comedy have the highest worldwide gross revenue
 - Comedy is a genre that appears most in the top ten genres with the highest worldwide gross
 - Comedy Musical and Performing Arts is the least of the top ten genres that are performing well in terms of worldwide gross
-  
-<img width="750" alt="Capture" src="https://github.com/user-attachments/assets/ef5ceadc-9d51-4c0f-ae2f-b41ee4186270" />
-
+<img width="735" alt="Capture" src="https://github.com/user-attachments/assets/d518dcc3-203f-4070-98e9-d1117ff52aa8" />
 ####  Movies with higher production costs tend to have higher worldwide revenues
-<img width="468" alt="Capture2" src="https://github.com/user-attachments/assets/943445d9-9719-463b-bfa3-1baeeb6917af" />
-
+<img width="468" alt="Capture2" src="https://github.com/user-attachments/assets/5dcd3e10-5dba-46bb-bac7-f8c0d3f6717c" />
 A strong positive linear relationship between production budget and the worldwide gross is visible.
 This suggests that movies with higher production costs tend to have higher worldwide revenues. However this does not guarantee a higher production budget will lead to higher worldwide gross
 
 #### Heartfelt genres like documentaries, family, and romance are preferred
-
-<img width="548" alt="Capture3" src="https://github.com/user-attachments/assets/0816cd1c-63af-4879-be63-57285c1f8776" />
-
+<img width="548" alt="Capture3" src="https://github.com/user-attachments/assets/b7f3dfeb-9b41-4477-8d29-b60118c26bde" />
 It is evident that Documentary, Family, Romance is the highest-rated genre  indicating the audience prefer heartfelt genres
 
 ### Releases in the middle of the year do best
-<img width="442" alt="Capture4" src="https://github.com/user-attachments/assets/3f28eb45-beb1-4bac-abf1-2c2c7352023e" />
-
-
+<img width="442" alt="Capture4" src="https://github.com/user-attachments/assets/a738e491-4cee-4feb-a23e-8e753dc3b110" />
 Releases from May to July  have the highest worldwide gross
 Releases at the beginning of January are the least in addition to releases between August and October 
